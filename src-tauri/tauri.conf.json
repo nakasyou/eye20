@@ -1,8 +1,8 @@
 {
 	"$schema": "https://schema.tauri.app/config/2",
-	"productName": "rule20",
+	"productName": "eye20",
 	"version": "0.1.0",
-	"identifier": "com.rule20.app",
+	"identifier": "com.eye20.app",
 	"build": {
 		"beforeDevCommand": "bun run dev",
 		"devUrl": "http://localhost:1420",
