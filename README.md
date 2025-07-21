@@ -12,6 +12,10 @@ This app helps you follow the 20-20-20 rule: ⏰ Every 20 minutes, 📏 look at 
 - 🔔 Plays a sound when the break ends.
 - 🖥️ You can quit the app from the system tray.
 
+## Screenshots
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a5eed36a-5d7e-4450-af0c-5ae01c9aa562" />
+
 ## Build Instructions
 
 1. Install Rust and Bun.
